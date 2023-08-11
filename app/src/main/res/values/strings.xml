@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">firebase</string>
+    <string name="signUpPage">Sign Up Page</string>
+    <string name="creatANewAccount">Create A New Account</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Create">Create</string>
+    <string name="login">Already have an account? Log In</string>
+</resources>
